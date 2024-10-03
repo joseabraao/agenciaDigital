@@ -15,4 +15,5 @@ Este projeto é um site de portfólio para a Agência Fake, desenvolvido utiliza
 * HTML5
 * CSS3
 
-* acesse pelo endereço: https://agencia-digital-gamma.vercel.app/
+
+ Acesse pelo endereço: https://agencia-digital-gamma.vercel.app/
