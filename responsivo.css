@@ -1,0 +1,30 @@
+@media screen and (max-width:1005px){
+ 
+    nav{
+        display: none;
+    }
+
+    h1{
+        width: 100%;
+        text-align: center;
+    }
+
+    .div1,.div2{
+        width: 100%;
+        text-align: center;
+    }
+
+    .div1>h2,.div1>h3,.div1>p{
+        text-align: center;
+    }
+
+    .card{
+        width:100%;
+        margin-bottom: 5%;
+    }
+
+    .whats{
+        display: none;
+    }
+
+}
